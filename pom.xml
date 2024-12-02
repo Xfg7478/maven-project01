@@ -40,5 +40,10 @@
         </plugins>
     </build>
 
+    <scm>
+        <connection>scm:git:https://github.com/Xfg7478/maven-project01.git</connection>
+        <developerConnection>scm:git:https://github.com/Xfg7478/maven-project01.git</developerConnection>
+        <url>https://github.com/Xfg7478/maven-project01.git</url>
+    </scm>
 </project>
 
